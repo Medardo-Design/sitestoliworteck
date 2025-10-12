@@ -1,0 +1,458 @@
+{
+  "metadata": {
+    "export_date": "2025-10-09",
+    "source": "Toliwork Tech - Catalogue de Sites Web",
+    "total_categories": 5,
+    "total_models": 12
+  },
+  "categories": [
+    {
+      "id": "dfc1b8c6-07d5-4fd8-b759-9d8f9e407334",
+      "name": "Site Vitrine",
+      "slug": "site-vitrine",
+      "description": "Sites web élégants pour présenter votre entreprise, vos services et votre expertise professionnelle.",
+      "icon": "Globe"
+    },
+    {
+      "id": "4a0ec967-02f9-4c3b-aba3-77c571bbd708",
+      "name": "Site E-commerce",
+      "slug": "site-ecommerce",
+      "description": "Boutiques en ligne complètes avec gestion de produits, panier et paiement sécurisé.",
+      "icon": "ShoppingCart"
+    },
+    {
+      "id": "740f358c-45f8-49c7-8d8b-28b3b6ca5c8d",
+      "name": "Site Institutionnel",
+      "slug": "site-institutionnel",
+      "description": "Sites web professionnels pour organisations, administrations et institutions.",
+      "icon": "Building2"
+    },
+    {
+      "id": "8ba29803-fc90-4d9f-8d4a-4bc0e9dbe4a8",
+      "name": "Blog / Magazine",
+      "slug": "blog-magazine",
+      "description": "Plateformes de publication de contenu avec système de gestion d'articles.",
+      "icon": "BookOpen"
+    },
+    {
+      "id": "16940dc9-2536-477b-922c-85a7173f8a4f",
+      "name": "Application Web",
+      "slug": "application-web",
+      "description": "Applications web interactives et outils métiers sur mesure.",
+      "icon": "Laptop"
+    }
+  ],
+  "website_models": [
+    {
+      "id": "ea1355a2-6204-43ce-81e0-a85bd7f4ed46",
+      "title": "Élégance Business",
+      "slug": "elegance-business",
+      "description": "Site vitrine professionnel pour entreprises de services avec design épuré et moderne.",
+      "full_description": "Un site vitrine élégant parfait pour les entreprises de conseil, cabinets d'avocats, et services professionnels. Design minimaliste avec sections pour services, équipe, témoignages et contact.",
+      "category_id": "dfc1b8c6-07d5-4fd8-b759-9d8f9e407334",
+      "category_name": "Site Vitrine",
+      "main_image": "https://images.pexels.com/photos/3184339/pexels-photo-3184339.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/3184292/pexels-photo-3184292.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Design responsive mobile-first",
+        "Section héro avec call-to-action",
+        "Présentation des services",
+        "Galerie portfolio",
+        "Formulaire de contact",
+        "Optimisation SEO"
+      ],
+      "customizable_elements": [
+        "Couleurs de marque",
+        "Logo et images",
+        "Textes et contenus",
+        "Sections supplémentaires",
+        "Formulaires personnalisés"
+      ],
+      "is_featured": true,
+      "is_new": false,
+      "is_popular": true,
+      "order_index": 1
+    },
+    {
+      "id": "1b6edfb0-76fb-401c-b202-202db382fed6",
+      "title": "RestaurantPro",
+      "slug": "restaurantpro",
+      "description": "Site vitrine idéal pour restaurants avec menu en ligne et réservation intégrée.",
+      "full_description": "Solution complète pour restaurants avec affichage du menu, galerie photos des plats, système de réservation, et section avis clients. Design gourmand et appétissant.",
+      "category_id": "dfc1b8c6-07d5-4fd8-b759-9d8f9e407334",
+      "category_name": "Site Vitrine",
+      "main_image": "https://images.pexels.com/photos/1307698/pexels-photo-1307698.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/262978/pexels-photo-262978.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/941861/pexels-photo-941861.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Menu digital interactif",
+        "Système de réservation en ligne",
+        "Galerie photos haute résolution",
+        "Section témoignages",
+        "Horaires et localisation",
+        "Intégration réseaux sociaux"
+      ],
+      "customizable_elements": [
+        "Menu et prix",
+        "Photos des plats",
+        "Informations restaurant",
+        "Couleurs du thème",
+        "Système de réservation"
+      ],
+      "is_featured": true,
+      "is_new": true,
+      "is_popular": true,
+      "order_index": 2
+    },
+    {
+      "id": "20390721-8812-4af8-876e-d35a06c66647",
+      "title": "ImmoPremium",
+      "slug": "immopremium",
+      "description": "Site vitrine haut de gamme pour agences immobilières et promoteurs.",
+      "full_description": "Plateforme élégante pour présenter vos biens immobiliers avec recherche avancée, visuels de qualité et fiches détaillées. Idéal pour agences et promoteurs.",
+      "category_id": "dfc1b8c6-07d5-4fd8-b759-9d8f9e407334",
+      "category_name": "Site Vitrine",
+      "main_image": "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/323780/pexels-photo-323780.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/259588/pexels-photo-259588.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Catalogue de biens",
+        "Filtres de recherche avancés",
+        "Fiches détaillées avec photos",
+        "Demande de visite en ligne",
+        "Espace agents",
+        "Carte interactive"
+      ],
+      "customizable_elements": [
+        "Biens immobiliers",
+        "Logo et branding",
+        "Informations agence",
+        "Zones géographiques",
+        "Filtres de recherche"
+      ],
+      "is_featured": false,
+      "is_new": false,
+      "is_popular": false,
+      "order_index": 3
+    },
+    {
+      "id": "bc608043-2a6d-4d56-acf2-4d77ddcd4acf",
+      "title": "ShopModerne",
+      "slug": "shop-moderne",
+      "description": "Boutique e-commerce complète avec gestion de stock et paiement sécurisé.",
+      "full_description": "Solution e-commerce professionnelle avec catalogue produits, panier d'achat, gestion des commandes, plusieurs moyens de paiement et interface d'administration complète.",
+      "category_id": "4a0ec967-02f9-4c3b-aba3-77c571bbd708",
+      "category_name": "Site E-commerce",
+      "main_image": "https://images.pexels.com/photos/3965545/pexels-photo-3965545.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/4195325/pexels-photo-4195325.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/5632402/pexels-photo-5632402.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Catalogue produits illimité",
+        "Panier et checkout sécurisé",
+        "Gestion des stocks",
+        "Paiement en ligne (Mobile Money, Carte)",
+        "Suivi des commandes",
+        "Tableau de bord administrateur",
+        "Gestion clients",
+        "Codes promo et réductions"
+      ],
+      "customizable_elements": [
+        "Produits et catégories",
+        "Moyens de paiement",
+        "Frais de livraison",
+        "Design et couleurs",
+        "Conditions générales"
+      ],
+      "is_featured": true,
+      "is_new": true,
+      "is_popular": true,
+      "order_index": 4
+    },
+    {
+      "id": "9a734315-73ee-459f-92f1-5fa00080f0ec",
+      "title": "FashionStore",
+      "slug": "fashion-store",
+      "description": "E-commerce mode et accessoires avec lookbook et recommandations personnalisées.",
+      "full_description": "Boutique en ligne spécialisée mode avec système de tailles, filtres avancés, wishlist, lookbook inspirant et recommandations basées sur les préférences clients.",
+      "category_id": "4a0ec967-02f9-4c3b-aba3-77c571bbd708",
+      "category_name": "Site E-commerce",
+      "main_image": "https://images.pexels.com/photos/1050244/pexels-photo-1050244.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/1148960/pexels-photo-1148960.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/1926769/pexels-photo-1926769.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Guide des tailles interactif",
+        "Filtres par couleur, taille, prix",
+        "Wishlist et favoris",
+        "Lookbook intégré",
+        "Zoom produit HD",
+        "Avis et notes clients",
+        "Recommandations personnalisées",
+        "Programme de fidélité"
+      ],
+      "customizable_elements": [
+        "Collection produits",
+        "Guide des tailles",
+        "Lookbook saisonnier",
+        "Promotions",
+        "Branding"
+      ],
+      "is_featured": false,
+      "is_new": true,
+      "is_popular": true,
+      "order_index": 5
+    },
+    {
+      "id": "e7fa1535-e18a-45a9-b40b-de673a961b71",
+      "title": "TechMarket",
+      "slug": "tech-market",
+      "description": "Marketplace high-tech avec comparateur et avis détaillés.",
+      "full_description": "Plateforme e-commerce spécialisée produits technologiques avec fiches techniques détaillées, comparateur de produits, système d'avis complet et support client intégré.",
+      "category_id": "4a0ec967-02f9-4c3b-aba3-77c571bbd708",
+      "category_name": "Site E-commerce",
+      "main_image": "https://images.pexels.com/photos/356056/pexels-photo-356056.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/788946/pexels-photo-788946.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/1714208/pexels-photo-1714208.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Fiches techniques détaillées",
+        "Comparateur de produits",
+        "Système d'avis et notes",
+        "Chat support en ligne",
+        "Garanties et SAV",
+        "Stock temps réel",
+        "Alertes de prix"
+      ],
+      "customizable_elements": [
+        "Catalogue high-tech",
+        "Garanties",
+        "Services après-vente",
+        "Partenaires",
+        "Promotions"
+      ],
+      "is_featured": false,
+      "is_new": false,
+      "is_popular": false,
+      "order_index": 6
+    },
+    {
+      "id": "f9e08d07-6ffd-4c5b-92e8-7de550b826f1",
+      "title": "GouvernancePlus",
+      "slug": "gouvernanceplus",
+      "description": "Site institutionnel pour administrations et organisations gouvernementales.",
+      "full_description": "Portail institutionnel moderne pour administrations publiques avec espace actualités, services en ligne, documents officiels, transparence et accessibilité optimale.",
+      "category_id": "740f358c-45f8-49c7-8d8b-28b3b6ca5c8d",
+      "category_name": "Site Institutionnel",
+      "main_image": "https://images.pexels.com/photos/8815943/pexels-photo-8815943.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/6077326/pexels-photo-6077326.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/5673488/pexels-photo-5673488.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Espace actualités et communiqués",
+        "Services en ligne",
+        "Bibliothèque de documents",
+        "Annuaire des services",
+        "Accès multilingue",
+        "Conformité accessibilité WCAG",
+        "Moteur de recherche avancé"
+      ],
+      "customizable_elements": [
+        "Structure organisationnelle",
+        "Services proposés",
+        "Documents et publications",
+        "Langues disponibles",
+        "Design institutionnel"
+      ],
+      "is_featured": false,
+      "is_new": false,
+      "is_popular": false,
+      "order_index": 7
+    },
+    {
+      "id": "0b76d37e-7641-4118-9b84-6483ca57a1d6",
+      "title": "AssociationWeb",
+      "slug": "associationweb",
+      "description": "Plateforme pour associations avec gestion des membres et événements.",
+      "full_description": "Site institutionnel pour associations et ONG avec espace membre, gestion d'événements, système de dons, galerie d'activités et newsletter intégrée.",
+      "category_id": "740f358c-45f8-49c7-8d8b-28b3b6ca5c8d",
+      "category_name": "Site Institutionnel",
+      "main_image": "https://images.pexels.com/photos/6646918/pexels-photo-6646918.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/6646917/pexels-photo-6646917.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/6646914/pexels-photo-6646914.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Espace membres sécurisé",
+        "Calendrier d'événements",
+        "Système de dons en ligne",
+        "Galerie photos et vidéos",
+        "Blog d'actualités",
+        "Newsletter automatisée",
+        "Espace bénévoles"
+      ],
+      "customizable_elements": [
+        "Missions et valeurs",
+        "Événements",
+        "Membres et équipe",
+        "Projets",
+        "Dons et transparence"
+      ],
+      "is_featured": true,
+      "is_new": false,
+      "is_popular": true,
+      "order_index": 8
+    },
+    {
+      "id": "a8d070be-d7b2-48f0-bdc1-c73d34c1303a",
+      "title": "BlogMag",
+      "slug": "blogmag",
+      "description": "Magazine en ligne moderne avec système de publication et catégories.",
+      "full_description": "Plateforme de blog/magazine professionnelle avec éditeur d'articles, système de catégories, recherche avancée, commentaires et partage social optimisé.",
+      "category_id": "8ba29803-fc90-4d9f-8d4a-4bc0e9dbe4a8",
+      "category_name": "Blog / Magazine",
+      "main_image": "https://images.pexels.com/photos/196644/pexels-photo-196644.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/3184418/pexels-photo-3184418.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Éditeur d'articles avancé",
+        "Système de catégories et tags",
+        "Recherche et filtres",
+        "Commentaires modérés",
+        "Partage réseaux sociaux",
+        "Newsletter abonnés",
+        "SEO optimisé",
+        "Analytics intégré"
+      ],
+      "customizable_elements": [
+        "Catégories d'articles",
+        "Design du blog",
+        "Auteurs et contributeurs",
+        "Publicités",
+        "Widgets sidebar"
+      ],
+      "is_featured": true,
+      "is_new": true,
+      "is_popular": false,
+      "order_index": 9
+    },
+    {
+      "id": "7639728a-f367-4a4a-b871-a7162e0264a9",
+      "title": "FoodBlog",
+      "slug": "foodblog",
+      "description": "Blog culinaire avec recettes, photos et vidéos de cuisine.",
+      "full_description": "Blog spécialisé cuisine et gastronomie avec fiches recettes détaillées, vidéos tutoriels, système de notation, impression des recettes et conversion d'unités.",
+      "category_id": "8ba29803-fc90-4d9f-8d4a-4bc0e9dbe4a8",
+      "category_name": "Blog / Magazine",
+      "main_image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/1410235/pexels-photo-1410235.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Fiches recettes structurées",
+        "Photos et vidéos HD",
+        "Temps de préparation",
+        "Niveau de difficulté",
+        "Impressions optimisées",
+        "Conversion d'unités",
+        "Favoris utilisateurs",
+        "Recherche par ingrédients"
+      ],
+      "customizable_elements": [
+        "Recettes et photos",
+        "Catégories culinaires",
+        "Profil chef",
+        "Partenaires",
+        "Publicités"
+      ],
+      "is_featured": false,
+      "is_new": true,
+      "is_popular": false,
+      "order_index": 10
+    },
+    {
+      "id": "2ea99592-400b-4915-b930-faa822b023b9",
+      "title": "CRMPro",
+      "slug": "crmpro",
+      "description": "Application de gestion de la relation client complète et intuitive.",
+      "full_description": "CRM moderne pour gérer vos contacts, opportunités commerciales, pipeline de ventes, tâches et rapports. Interface intuitive avec tableau de bord personnalisable.",
+      "category_id": "16940dc9-2536-477b-922c-85a7173f8a4f",
+      "category_name": "Application Web",
+      "main_image": "https://images.pexels.com/photos/3184465/pexels-photo-3184465.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/3184296/pexels-photo-3184296.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Gestion contacts et entreprises",
+        "Pipeline de ventes visuel",
+        "Gestion des tâches",
+        "Rapports et statistiques",
+        "Historique des interactions",
+        "Notifications automatiques",
+        "Export de données",
+        "Multi-utilisateurs avec rôles"
+      ],
+      "customizable_elements": [
+        "Champs personnalisés",
+        "Pipeline et étapes",
+        "Notifications",
+        "Rapports",
+        "Intégrations"
+      ],
+      "is_featured": true,
+      "is_new": false,
+      "is_popular": true,
+      "order_index": 11
+    },
+    {
+      "id": "65ee26e6-e926-4b3f-adb2-45307963e1f5",
+      "title": "TaskManager",
+      "slug": "taskmanager",
+      "description": "Outil de gestion de projets et tâches pour équipes collaboratives.",
+      "full_description": "Application de gestion de projets avec tableaux Kanban, Gantt, gestion des tâches, assignations, deadlines, fichiers et communication d'équipe intégrée.",
+      "category_id": "16940dc9-2536-477b-922c-85a7173f8a4f",
+      "category_name": "Application Web",
+      "main_image": "https://images.pexels.com/photos/3184360/pexels-photo-3184360.jpeg?auto=compress&cs=tinysrgb&w=1200",
+      "gallery_images": [
+        "https://images.pexels.com/photos/3184287/pexels-photo-3184287.jpeg?auto=compress&cs=tinysrgb&w=1200",
+        "https://images.pexels.com/photos/3184325/pexels-photo-3184325.jpeg?auto=compress&cs=tinysrgb&w=1200"
+      ],
+      "features": [
+        "Tableaux Kanban et Gantt",
+        "Gestion de tâches et sous-tâches",
+        "Assignations et deadlines",
+        "Suivi du temps",
+        "Partage de fichiers",
+        "Commentaires et mentions",
+        "Notifications temps réel",
+        "Rapports de progression"
+      ],
+      "customizable_elements": [
+        "Projets et workflows",
+        "Équipes et permissions",
+        "Templates de projets",
+        "Intégrations",
+        "Notifications"
+      ],
+      "is_featured": false,
+      "is_new": true,
+      "is_popular": false,
+      "order_index": 12
+    }
+  ]
+}
